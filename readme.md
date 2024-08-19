@@ -127,7 +127,7 @@ Siga estes passos para instalar e configurar o projeto:
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/usuario/repo.git
+   git clone https://github.com/7Johnsz/Uber-FoodTrucks.git
    ```
 2. Inicie a API usando uvicorn, reload neste caso está ativado pois está fora de produção.
    ```console
